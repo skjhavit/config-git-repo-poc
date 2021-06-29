@@ -1,1 +1,0 @@
-update taco_team set role = 'Developer' where id = 1;
